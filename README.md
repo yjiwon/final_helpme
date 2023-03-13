@@ -1,2 +1,11 @@
-# final_helpme
-![정보 시스템 기능 구성도](https://user-images.githubusercontent.com/101821205/224730893-2b26a091-e82a-488c-b558-5da4c42eefa4.jpg)
+# helpme_final project 
+![슬라이드2](https://user-images.githubusercontent.com/101821205/224733289-4d3dcc01-4fa3-4b6b-866f-372a32524f56.JPG)
+![슬라이드3](https://user-images.githubusercontent.com/101821205/224733362-ee04f0ea-653f-4ca0-9e3e-2ad14229d186.JPG)
+![슬라이드6](https://user-images.githubusercontent.com/101821205/224733390-13529a2b-ef35-4fe2-b537-ee422802e46c.JPG)
+![슬라이드7](https://user-images.githubusercontent.com/101821205/224733402-df2e194f-9238-4750-8704-b0d523153c94.JPG)
+![슬라이드10](https://user-images.githubusercontent.com/101821205/224733443-d40482bc-4ff6-485a-9546-22105ba2c784.JPG)
+![슬라이드12](https://user-images.githubusercontent.com/101821205/224733455-b49c6023-bc3f-40f3-b44d-e05fe3223038.JPG)
+![슬라이드13](https://user-images.githubusercontent.com/101821205/224733464-9d96dab6-a9a1-410f-b580-ebe3588657d4.JPG)
+![슬라이드14](https://user-images.githubusercontent.com/101821205/224733468-89ff3905-5e29-47bf-97d9-2b34b91d1d9e.JPG)
+![슬라이드15](https://user-images.githubusercontent.com/101821205/224733479-b530d76b-9e25-47d4-8c53-515ff532d977.JPG)
+![슬라이드16](https://user-images.githubusercontent.com/101821205/224733491-234d4666-b578-4236-9cad-502c24540876.JPG)
