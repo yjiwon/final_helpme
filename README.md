@@ -1,11 +1,11 @@
-# helpme_final project 
-![슬라이드2](https://user-images.githubusercontent.com/101821205/224733289-4d3dcc01-4fa3-4b6b-866f-372a32524f56.JPG)
-![슬라이드3](https://user-images.githubusercontent.com/101821205/224733362-ee04f0ea-653f-4ca0-9e3e-2ad14229d186.JPG)
-![슬라이드6](https://user-images.githubusercontent.com/101821205/224733390-13529a2b-ef35-4fe2-b537-ee422802e46c.JPG)
-![슬라이드7](https://user-images.githubusercontent.com/101821205/224733402-df2e194f-9238-4750-8704-b0d523153c94.JPG)
-![슬라이드10](https://user-images.githubusercontent.com/101821205/224733443-d40482bc-4ff6-485a-9546-22105ba2c784.JPG)
-![슬라이드12](https://user-images.githubusercontent.com/101821205/224733455-b49c6023-bc3f-40f3-b44d-e05fe3223038.JPG)
-![슬라이드13](https://user-images.githubusercontent.com/101821205/224733464-9d96dab6-a9a1-410f-b580-ebe3588657d4.JPG)
-![슬라이드14](https://user-images.githubusercontent.com/101821205/224733468-89ff3905-5e29-47bf-97d9-2b34b91d1d9e.JPG)
-![슬라이드15](https://user-images.githubusercontent.com/101821205/224733479-b530d76b-9e25-47d4-8c53-515ff532d977.JPG)
-![슬라이드16](https://user-images.githubusercontent.com/101821205/224733491-234d4666-b578-4236-9cad-502c24540876.JPG)
+# 누구나 팔 수 있고 누구나 살 수 있는 'Help me!' 쉽고 빠른 취미 거래 플랫폼
+![슬라이드3](https://user-images.githubusercontent.com/101821205/224734611-c0d8fe2b-5adf-40eb-b9cc-69903b8dfb65.JPG)
+![슬라이드7](https://user-images.githubusercontent.com/101821205/224734676-c4c25438-fcc7-454e-9ce3-38326c8ced50.JPG)
+![슬라이드10](https://user-images.githubusercontent.com/101821205/224734694-b3e5b1f9-621d-432a-afc2-1797df8e8241.JPG)
+# Help me! 화면설계서
+![슬라이드11](https://user-images.githubusercontent.com/101821205/224734712-1515b961-734b-4808-9f90-35159a3c5cbd.JPG)
+![슬라이드12](https://user-images.githubusercontent.com/101821205/224734738-7e342e4f-a506-47dc-80aa-7b1655db5919.JPG)
+![슬라이드13](https://user-images.githubusercontent.com/101821205/224734752-fd94959d-8226-40c7-ac9e-d1b933f7b4f9.JPG)
+![슬라이드14](https://user-images.githubusercontent.com/101821205/224734762-55efe7b6-69b9-4fc7-a05b-5656bc31572a.JPG)
+![슬라이드15](https://user-images.githubusercontent.com/101821205/224734772-ddc067f2-5c31-4d4b-8d4e-ef7989cbbbff.JPG)
+![슬라이드16](https://user-images.githubusercontent.com/101821205/224734778-81c46247-e807-4906-8bf8-4d5b13a64dd7.JPG)
