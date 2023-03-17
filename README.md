@@ -1,4 +1,4 @@
-# 쉽고 빠른 취미 거래 플랫폼 'Help me!'
+
 ![슬라이드3](https://user-images.githubusercontent.com/101821205/224734611-c0d8fe2b-5adf-40eb-b9cc-69903b8dfb65.JPG)
 ![슬라이드7](https://user-images.githubusercontent.com/101821205/224734676-c4c25438-fcc7-454e-9ce3-38326c8ced50.JPG)
 ![슬라이드10](https://user-images.githubusercontent.com/101821205/224734694-b3e5b1f9-621d-432a-afc2-1797df8e8241.JPG)
